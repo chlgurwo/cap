@@ -2,7 +2,7 @@
 # 💻 나의 모바일 포트폴리오
 
 ## ☞나의 모바일 포트폴리오 웹 페이지 바로 가기 
-chlgurwo.github.io/cap/index.html
+(https://chlgurwo.github.io/cap/index.html)
 
 ## ☞ 설명
 ㆍ페이지에 header,content,footer 구조로 만들었다.<br>
