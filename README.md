@@ -1,7 +1,7 @@
 # cap
 # 💻 나의 모바일 포트폴리오
 
-## ☞나의 모바일 포트폴리오 웹 페이지 바로 가기file:///C:/Users/hyuck/Desktop/%EC%B5%9C%ED%98%81%EC%9E%AC%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C/index.html) <br>
+## ☞나의 모바일 포트폴리오 웹 페이지 바로 가기 chlgurwo00.github.io/cap/ <br>
 
 ## ☞ 설명
 ㆍ페이지에 header,content,footer 구조로 만들었다.<br>
