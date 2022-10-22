@@ -12,9 +12,9 @@
 ![1](https://user-images.githubusercontent.com/101083779/197352745-61ea88e3-b40c-495d-a506-cd2176b44589.png)
 ![2](https://user-images.githubusercontent.com/101083779/197352748-d7f2c46f-a231-4923-9ddb-9dcced9f6354.png)
 
-
+<br><br><br>
 header부분에 네비게이션바에 신체정보를 클릭하면 나의 신체정보가 차트형식으로 나타난다.
-
+<br><br><br>
 
 ![4](https://user-images.githubusercontent.com/101083779/197352996-9d0038b0-05ac-46c1-b87f-b795a7284c23.png)
 
